@@ -165,7 +165,7 @@ h4{
 }
 
 .button-container{
-    display: inline-block;
+   /* display: inline-block;*/
     width: 200px;
     position: relative;
     left: 600px;
@@ -180,5 +180,15 @@ h4{
     border: solid 3px #fff;
     border-radius: 15px;
     color: #fff;
-    
 }
+
+/* last sector */
+ 
+.footer{
+    background-color: #1f2937;
+    color: #fff;
+    height: 80px;
+    font-size:18px;
+    text-align: center;
+    padding-top:15px;
+ }
