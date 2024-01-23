@@ -46,6 +46,7 @@ button{
     font-size: 16px;
     background-color: #3882f6;
     border-style: none;
+    color: white;
     height: 36px;
     width: 120px;
 }
